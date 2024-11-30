@@ -4,7 +4,7 @@ html{
 }
 .container-main{
     text-align:center;
-    padding: 1.5rem 1rem 1rem 1rem;
+    padding: 1.5rem 1rem 1rem;
     margin:0%;
     align-items:center;
 }
@@ -15,7 +15,7 @@ a,p{
     letter-spacing:0.1rem;    
 }
 body{
-    padding:0vh;
+    padding:0;
 }
 .text{
     margin-left:10%;
@@ -41,7 +41,7 @@ color:white;
 @media(min-width:600px) {
     .figma{
         display:flex;
-        margin: 0vh;
+        margin: 0;
     
     }
 }
@@ -198,7 +198,7 @@ img {
         ul.topnav {
         list-style-type: none;
         margin: 0%;
-        padding: 0rem;
+        padding: 0;
         overflow: hidden;
         background-color: rgb(10, 10, 10);
         }
@@ -246,7 +246,7 @@ img {
     .nav_icon{
         height:1.5rem;
         width: 1.5rem;
-        padding: 1rem 1rem;
+        padding: 1rem;
     }
 
     /*typing anim*/
@@ -313,7 +313,7 @@ footer{
 
 .info{
     background-color:rgba(243, 229, 229, 0.603);
-    padding:1rem 1.5rem 1rem 1.5rem;
+    padding:1rem 1.5rem;
     border-radius: 0.5rem;
     width: auto;
     height: auto;
@@ -376,8 +376,8 @@ ul li{
     color: #FFFFFF;
     text-align: center;
     font-size: 0.8rem;
-    padding: 1rem 1rem 1rem 1rem;
-    margin: 1rem 1rem 3rem 1rem;
+    padding: 1rem;
+    margin: 1rem 1rem 3rem;
     width: 4.5rem;
     height: 3.1rem;
     transition: all 0.5s;
